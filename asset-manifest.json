@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/artsynoe/static/css/main.8da0ee37.css",
+    "main.js": "/artsynoe/static/js/main.634821c9.js",
+    "static/js/453.b9d00dc9.chunk.js": "/artsynoe/static/js/453.b9d00dc9.chunk.js",
+    "index.html": "/artsynoe/index.html",
+    "main.8da0ee37.css.map": "/artsynoe/static/css/main.8da0ee37.css.map",
+    "main.634821c9.js.map": "/artsynoe/static/js/main.634821c9.js.map",
+    "453.b9d00dc9.chunk.js.map": "/artsynoe/static/js/453.b9d00dc9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8da0ee37.css",
+    "static/js/main.634821c9.js"
+  ]
+}
